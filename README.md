@@ -2,5 +2,5 @@
 - 📚 MS in Computer Science, Concentration in Data Analytics at Boston University
 - 📈 Interested in data science, data analytics, and bioinformatics
 - 💻 Skilled in R, Python, and MATLAB
-- 🌱 Currently learning SQL
+- 🌱 Currently learning JavaScript and SQL
 - 📫 You can reach me at bqiu@bu.edu
